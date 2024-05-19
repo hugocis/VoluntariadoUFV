@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to array types.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"github/hugocis/VoluntariadoUFV/contracts/VoluntariadoUFV_flattened.sol": "Arrays"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"github/hugocis/VoluntariadoUFV/contracts/VoluntariadoUFV_flattened.sol": {
+			"keccak256": "0x95e6e650f658e5eb2e7e3d2e25427eae1ac8093159352e42dc2bb1b7dc9b7e57",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://02d8ca62dc4c9ef4720f08bf1bb0ce60dc067bb97efdcd0d327621b773847018",
+				"dweb:/ipfs/QmaExdpSaXcmoRR2xJcXJG1jCUsK1M5FkJL27YvPYUPzL4"
+			]
+		}
+	},
+	"version": 1
+}
