@@ -111,11 +111,11 @@
 	},
 	"sources": {
 		"github/hugocis/VoluntariadoUFV/contracts/VoluntariadoUFV_flattened.sol": {
-			"keccak256": "0x95e6e650f658e5eb2e7e3d2e25427eae1ac8093159352e42dc2bb1b7dc9b7e57",
-			"license": "UNLICENSED",
+			"keccak256": "0xc986f4075e591864f12790c3f58f2cd9a578225970fbf386c8b186b51547e881",
+			"license": "MIT",
 			"urls": [
-				"bzz-raw://02d8ca62dc4c9ef4720f08bf1bb0ce60dc067bb97efdcd0d327621b773847018",
-				"dweb:/ipfs/QmaExdpSaXcmoRR2xJcXJG1jCUsK1M5FkJL27YvPYUPzL4"
+				"bzz-raw://52d9f76dc9eb9bb1163c7ec46a3a733d84f32ca9b77bf722dbf63bb5f1db511a",
+				"dweb:/ipfs/QmW6pFvAAs1R3SEcfGiNzihgtUeF7negXJ2cZLxH2hiiPn"
 			]
 		}
 	},
