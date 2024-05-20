@@ -4,6 +4,7 @@ import { ethers } from 'ethers';
 import { provider } from './config';
 import ERC1155ABI from './ERC1155ABI';
 
+
 const contractAddress = "0x073950a7AB2AF75701592d437F2c380d561b7e04"; // Dirección de tu contrato
 
 const gradientBackground = keyframes`
